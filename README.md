@@ -10,8 +10,7 @@
 
 - 🚀 My portfolio [zkdev.netlify.app](https://zkdev.netlify.app/);
 
-- 📫 If you want to send a message. **zeeshankhaliqofficial@gmail.com
-**
+- 📫 If you want to send a message. **zeeshankhaliqofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
